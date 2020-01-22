@@ -1,7 +1,7 @@
 # JuliaML
 A repo for Julia Machine Learning projects!
 
-## TextAnalysis.jl
+## TextAnalysis.jl (NLP)
 - Sentiment Analysis Model
 - Spam Detection Filter with Naive Bayes Model
 
