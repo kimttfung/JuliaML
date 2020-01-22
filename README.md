@@ -1,1 +1,1 @@
-# JuliaTextAnalyses
+# JuliaTextAnalysis
